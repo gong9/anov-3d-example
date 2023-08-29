@@ -22,13 +22,16 @@ onMounted(() => {
   })
 
   const labelObject2d = createLabel(dom.createElement('div', {
-    class: 'class-a',
     textContent: '测试',
+    style: {
+      color: 'red',
+      fontSize: '50px',
+    },
   }))
 
   labelObject2d.position.set(0, 3, 0)
-  box.add(labelObject2d)
 
+  box.add(labelObject2d)
   scene.add(box)
 
   scene.render(divRef.value!)

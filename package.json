@@ -11,7 +11,7 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "@anov/3d": "0.0.1-alpha.4",
+    "@anov/3d": "0.0.1-alpha.9",
     "vue": "^3.3.4"
   },
   "devDependencies": {

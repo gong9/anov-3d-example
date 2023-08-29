@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@anov/3d':
-    specifier: 0.0.1-alpha.4
-    version: 0.0.1-alpha.4
+    specifier: 0.0.1-alpha.9
+    version: 0.0.1-alpha.9
   vue:
     specifier: ^3.3.4
     version: 3.3.4
@@ -38,8 +38,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /@anov/3d@0.0.1-alpha.4:
-    resolution: {integrity: sha512-W+XVi0fbYg8PeuwB637X/H6Vhnh9NM+YGyPSMmZXFa/lh/SzBBGl7Ryns/a5Z37CzNWr+bRuqbWud1ZW3B+fPg==}
+  /@anov/3d@0.0.1-alpha.9:
+    resolution: {integrity: sha512-szh/u9Ekd7TtXVLzL7w9DyDRnLn6jiR4O9z++IakO7kEBQNjI39eyxYdnFlb6Cc4LoVYKXda7ggtj2QCxaIJFg==}
     dependencies:
       '@tweenjs/tween.js': 21.0.0
       '@types/three': 0.155.0
